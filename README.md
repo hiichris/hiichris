@@ -1,16 +1,35 @@
-### Hii there 👋 I'm Chris!
+# Hii World!
 
-<!--
-**hiichris/hiichris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer specialized in Full-Stack Web development. 
 
-Here are some ideas to get you started:
+- 🪟 I don't have any Windows OS machine. If I really need to work with C# or VS, it's in my VirtualBox.
+- 🐧 Linux enthusiast and preferred to game on Linux. I'd uninstall the game if it doesn't run with Proton.
+- 🕹 SteamDeck owner but I'll occasionally use it as a desktop.
+- 🤖 I like AOSP Android but I try to avoid Google. Don't ask me why...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑🏻‍💻 Languages
+
+- Python
+- JavaScript
+- Golang
+- Dart
+- JAVA
+- C#
+- C++
+- SQL
+- Bash
+
+## 🪜 Frameworks 
+
+- ReactJS
+- Flutter
+- AngularJS
+
+## ✍🏻 IDE/Editors
+
+- Visual Studio Code
+- Android Studio
+
+## 🤩 Where do I find my joy?
+
+- Figure out a solution to Leetcode question.. (Nope! just kidding)
